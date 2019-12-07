@@ -4,7 +4,6 @@ in C++, Java and Python.
 
 ## Question solved
 
-[I'm an inline-style link](https://www.google.com)
 
 |Topic  | Question | CPP | JAVA |
 |-------|----------|-----|------|
