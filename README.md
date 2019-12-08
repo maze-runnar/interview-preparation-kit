@@ -9,23 +9,27 @@ in C++, Java and Python.
 |-------|----------|-----|------| ------|
 |Warm Up Challenges | | | | |
 |Arrays | | | | |
+||[Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Arrays/array_left_rotation.cpp)|||
+||[New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Arrays/new_year_chaos.cpp)|||
 ||[2D Arrays](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Arrays/2dArrays.cpp)|||
 | |[Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Arrays/Minimum_Swaps2.cpp) | | |
 | |[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)  | [Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Arrays/Array_Manipulation.cpp) || |
 |Dictionaries and Hashmaps | | | | |
+||[Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) |[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Dictionaries%20and%20Hashmaps/RansomNotes.cpp)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Dictionaries%20and%20Hashmaps/Ransom_Note.java)||
+| |[Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | | [Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Dictionaries%20and%20Hashmaps/Two_Strings.java) | |
 |Sorting | | | || 
 |String Manipulation|||||
 |Greedy Algorithms|||||
-| |[Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)|[Done]()|||
-||[Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)|[Done]()|||
-||[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)|[Done]()|||
-||[Max Min](https://www.hackerrank.com/challenges/angry-children/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)|[Done]()|||
-||[Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)|[Done]()|||
+| |[Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Greedy%20Algorithm/luck_balance.cpp)|||
+||[Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Greedy%20Algorithm/minimum_absolute_difference_in_an_array.cpp)|||
+||[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Greedy%20Algorithm/greedy_florist.cpp)|||
+||[Max Min](https://www.hackerrank.com/challenges/angry-children/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Greedy%20Algorithm/max_min.cpp)|||
+||[Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Greedy%20Algorithm/reverse_shuffle_merge.cpp)|||
 |Search| || ||
 |Dynamic Programming| ||||
 |Stacks and Queues|||||
 |Graphs | | | ||
-||[DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|[Done]()|||
+||[DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Graphs/DFS_Connected%20Cell_in_a_Grid.cpp)|||
 |Trees | | | ||
 |Linked List | || ||
 |Recursion and Backtracking | ||||
