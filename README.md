@@ -25,6 +25,11 @@ in C++, Java and Python.
 ||[Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Dictionaries%20and%20Hashmaps/sherlock_and_anagrams.cpp)||[Done](/Dictionaries%20and%20Hashmaps/SherlockAndAnagrams.py)|
 ||[Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Dictionaries%20and%20Hashmaps/count_triplets.cpp)||[Done](/Dictioinaries%20and%20Hashmaps/CountTriplets.py)|
 |Sorting | | | || 
+||[Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Sorting/bubble_sort.cpp)|||
+||[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Sorting/mark_and_toys.cpp)|||
+||[Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Sorting/comparator_sorting.cpp)|||
+||[Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Sorting/fraudulent_activity_notifications.cpp)|||
+||[Counting Inversions - Merge Sort](https://www.hackerrank.com/challenges/ctci-merge-sort/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Sorting/merge_sort.cpp)|||
 |String Manipulation|||||
 |Greedy Algorithms|||||
 | |[Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Greedy%20Algorithm/luck_balance.cpp)|||
@@ -34,6 +39,7 @@ in C++, Java and Python.
 ||[Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Greedy%20Algorithm/reverse_shuffle_merge.cpp)|||
 |Search| || ||
 |Dynamic Programming| ||||
+||[Max Sum Array](https://www.hackerrank.com/challenges/max-array-sum/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming)||[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Dynamic%20Programming/MaxSumArray.java)||
 |Stacks and Queues|||||
 |Graphs | | | ||
 ||[DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Graphs/DFS_Connected%20Cell_in_a_Grid.cpp)|||
