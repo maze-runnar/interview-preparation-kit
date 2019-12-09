@@ -39,6 +39,7 @@ in C++, Java and Python.
 ||[Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Greedy%20Algorithm/reverse_shuffle_merge.cpp)|||
 |Search| || ||
 |Dynamic Programming| ||||
+||[Max Sum Array](https://www.hackerrank.com/challenges/max-array-sum/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming)||[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Dynamic%20Programming/MaxSumArray.java)||
 |Stacks and Queues|||||
 |Graphs | | | ||
 ||[DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Graphs/DFS_Connected%20Cell_in_a_Grid.cpp)|||
