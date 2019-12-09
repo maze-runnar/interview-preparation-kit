@@ -10,6 +10,8 @@ in C++, Java and Python.
 |Warm Up Challenges | | | | |
 ||[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)|||[Done](/Warm-Up%20Challenges/SockMerchant.py)|
 ||[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)|||[Done](/Warm-Up%20Challenges/CountingValleys.py)|
+||[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)|||[Done](/Warm-Up%20Challenges/JumpingOnTheClouds.py)|
+||[Repeated Strings](https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)|||[Done](/Warm-Up%20Challenges/RepeatedStrings.py)|
 |Arrays | | | | |
 ||[Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Arrays/array_left_rotation.cpp)|||
 ||[New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Arrays/new_year_chaos.cpp)|||
