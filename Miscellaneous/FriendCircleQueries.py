@@ -1,3 +1,11 @@
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+
 def init_cmp(mp,x,y):
     if x not in mp:
         mp[x]=x
@@ -36,3 +44,20 @@ def maxCircle(queries):
             max_gp = max(max_gp,max(cc[p1],cc[p2]))
         res.append(max_gp)
     return res
+
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    q = int(input())
+
+    queries = []
+
+    for _ in range(q):
+        queries.append(list(map(int, input().rstrip().split())))
+
+    ans = maxCircle(queries)
+
+    fptr.write('\n'.join(map(str, ans)))
+    fptr.write('\n')
+
+    fptr.close()
