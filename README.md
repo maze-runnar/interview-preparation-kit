@@ -52,6 +52,10 @@ in C++, Java and Python.
 |Linked List | || ||
 |Recursion and Backtracking | ||||
 |Miscellaneous | ||| |
+||[Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|||[Done](/Miscellaneous/FlippingBits.py)|
+||[Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|||[Done](/Miscellaneous/Primality.py)|
+||[Friend Circle Queries](https://www.hackerrank.com/challenges/friend-circle-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|||[Done](/Miscellaneous/FriendCircleQueries.py)|
+||[Maximum Xor](https://www.hackerrank.com/challenges/maximum-xor?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|||[Done](/Miscellaneous/MaximumXor.py)|
 
 ## Communication channel 
 https://gitter.im/  <br/>
