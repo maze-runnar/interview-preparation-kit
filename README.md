@@ -8,7 +8,6 @@ in C++, Java and Python.
 |Topic  | Question | CPP | JAVA | Python| 
 |-------|----------|-----|------| ------|
 |Warm Up Challenges | | | | |
-
 ||[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)|[Done](/Warm-Up%20Challenges/sock_merchant.cpp)|[Done](/Warm-Up%20Challenges/sockMerchant.java)|[Done](/Warm-Up%20Challenges/SockMerchant.py)|
 ||[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)|[Done](/Warm-Up%20Challenges/counting_valleys.cpp)|[Done](/Warm-Up%20Challenges/countingValleys.java)|[Done](/Warm-Up%20Challenges/CountingValleys.py)|
 ||[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)|[Done](/Warm-Up%20Challenges/Jumping_on_the_clouds.cpp)|[Done](/Warm-Up%20Challenges/jumpingOnTheClouds.java)|[Done](/Warm-Up%20Challenges/JumpingOnTheClouds.py)|
