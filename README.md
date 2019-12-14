@@ -56,6 +56,10 @@ in C++, Java and Python.
 |Trees | | | ||
 |Linked List | || ||
 |Recursion and Backtracking | ||||
+||[Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)|[Done](/Recursion%20and%20Backtracking/Fibonacci_Numbers.cpp)|||
+||[Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)|[Done](/Recursion%20and%20Backtracking/Davis'_Staircase.cpp)|||
+||[Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)|[Done](/Recursion%20and%20Backtracking/Crossword_Puzzle.cpp)|||
+||[Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)|[Done](/Recursion%20and%20Backtracking/Recursive_Digit_Sum.cpp)|||
 |Miscellaneous | ||| |
 ||[Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|||[Done](/Miscellaneous/FlippingBits.py)|
 ||[Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|||[Done](/Miscellaneous/Primality.py)|
