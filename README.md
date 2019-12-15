@@ -51,7 +51,8 @@ in C++, Java and Python.
 ||[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search)|||[Done](/Search/SwapNodes.py)|
 ||[Making Candies](https://www.hackerrank.com/challenges/making-candies/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search)|||[Done](/Search/MakingCandies.py)|
 |Dynamic Programming| ||||
-||[Max Sum Array](https://www.hackerrank.com/challenges/max-array-sum/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming)||[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Dynamic%20Programming/MaxSumArray.java)||
+||[Max Sum Array](https://www.hackerrank.com/challenges/max-array-sum/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming)||[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Dynamic%20Programming/MaxSumArray.java)|[Done](/Dynamic%20Programming/MaxSumArray.py)|
+||[Candies](https://www.hackerrank.com/challenges/candies/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming)|||[Done](/Dynamic%20Programming/Candies.py)|
 |Stacks and Queues|||||
 |Graphs | | | ||
 ||[DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Graphs/DFS_Connected%20Cell_in_a_Grid.cpp)|||
