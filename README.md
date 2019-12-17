@@ -63,8 +63,14 @@ in C++, Java and Python.
 |Graphs | | | ||
 ||[DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Graphs/DFS_Connected%20Cell_in_a_Grid.cpp)|||
 |Trees | | | ||
+||[Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)||[Done](/Trees/heightOfBT.java)||
+||[Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)||[Done](/Trees/LCA.java)||
 |Linked List | || ||
 |Recursion and Backtracking | ||||
+||[Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)|[Done](/Recursion%20and%20Backtracking/Fibonacci_Numbers.cpp)|||
+||[Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)|[Done](/Recursion%20and%20Backtracking/Davis'_Staircase.cpp)|||
+||[Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)|[Done](/Recursion%20and%20Backtracking/Crossword_Puzzle.cpp)|||
+||[Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)|[Done](/Recursion%20and%20Backtracking/Recursive_Digit_Sum.cpp)|||
 |Miscellaneous | ||| |
 ||[Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|||[Done](/Miscellaneous/FlippingBits.py)|
 ||[Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|||[Done](/Miscellaneous/Primality.py)|
@@ -72,8 +78,8 @@ in C++, Java and Python.
 ||[Maximum Xor](https://www.hackerrank.com/challenges/maximum-xor?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|||[Done](/Miscellaneous/MaximumXor.py)|
 
 ## Communication channel 
-https://gitter.im/  <br/>
-user name: maze-runnar
+
+https://gitter.im/interview-prep-comm/community
 
 ### Contribution Guidelines
 https://www.hackerrank.com/interview/interview-preparation-kit  <br/>
