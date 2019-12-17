@@ -61,7 +61,10 @@ in C++, Java and Python.
 ||[Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)|||[Done](/Stacks%20and%20Queues/CastleOntheGrid.py)|
 ||[Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)|||[Done](/Stacks%20and%20Queues/PoisonousPlants.py)|
 |Graphs | | | ||
-||[DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Graphs/DFS_Connected%20Cell_in_a_Grid.cpp)|||
+||[Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|||[Done](/Graphs/RoadsAndLibraries.py)|
+||[Find the nearest clone](https://www.hackerrank.com/challenges/find-the-nearest-clone/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|||[Done](/Graphs/FindTheNearestClone.py)|
+||[BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|||[Done](/Graphs/ShortestReachInAGraph.py)|
+||[DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Graphs/DFS_Connected%20Cell_in_a_Grid.cpp)||[Done](/Graphs/ConnectedCellInAGrid.py)|
 |Trees | | | ||
 ||[Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)||[Done](/Trees/heightOfBT.java)||
 ||[Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)||[Done](/Trees/LCA.java)||
