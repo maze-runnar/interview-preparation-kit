@@ -68,8 +68,8 @@ in C++, Java and Python.
 ||[Maximum Xor](https://www.hackerrank.com/challenges/maximum-xor?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|||[Done](/Miscellaneous/MaximumXor.py)|
 
 ## Communication channel 
-https://gitter.im/  <br/>
-user name: maze-runnar
+https://gitter.im/  <br
+https://gitter.im/interview-prep-comm/community
 
 ### Contribution Guidelines
 https://www.hackerrank.com/interview/interview-preparation-kit  <br/>
