@@ -54,6 +54,12 @@ in C++, Java and Python.
 ||[Max Sum Array](https://www.hackerrank.com/challenges/max-array-sum/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming)||[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Dynamic%20Programming/MaxSumArray.java)|[Done](/Dynamic%20Programming/MaxSumArray.py)|
 ||[Candies](https://www.hackerrank.com/challenges/candies/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming)|||[Done](/Dynamic%20Programming/Candies.py)|
 |Stacks and Queues|||||
+||[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)|||[Done](/Stacks%20and%20Queues/BalancedBrackets.py)|
+||[Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)|||[Done](/Stacks%20and%20Queues/TaleOfTwoStacks.py)|
+||[Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)|||[Done](/Stacks%20and%20Queues/LargestRectangle.py)|
+||[Min Max Middle](https://www.hackerrank.com/challenges/min-max-riddle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)|||[Done](/Stacks%20and%20Queues/MinMaxMiddle.py)|
+||[Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)|||[Done](/Stacks%20and%20Queues/CastleOntheGrid.py)|
+||[Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)|||[Done](/Stacks%20and%20Queues/PoisonousPlants.py)|
 |Graphs | | | ||
 ||[DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Graphs/DFS_Connected%20Cell_in_a_Grid.cpp)|||
 |Trees | | | ||
