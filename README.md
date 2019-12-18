@@ -57,8 +57,8 @@ in C++, Java and Python.
 |Linked List | || ||
 |Recursion and Backtracking | ||||
 ||[Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)|[Done](/Recursion%20and%20Backtracking/Fibonacci_Numbers.cpp)||[Done](/Recursion%20and%20Backtracking/Fibonacci_numbers.py)|
-||[Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)|[Done](/Recursion%20and%20Backtracking/Davis'_Staircase.cpp)|||
-||[Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)|[Done](/Recursion%20and%20Backtracking/Crossword_Puzzle.cpp)||[Done](/Recursion%20and%20Backtracking/crossword_puzzle.py)|
+||[Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)|[Done](/Recursion%20and%20Backtracking/Davis'_Staircase.cpp)||[Done](/Recursion%20and%20Backtracking/Davis'_Staircase.cpp)|
+||[Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)|[Done](/Recursion%20and%20Backtracking/Davis'_staircase.py)||[Done](/Recursion%20and%20Backtracking/crossword_puzzle.py)|
 ||[Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)|[Done](/Recursion%20and%20Backtracking/Recursive_Digit_Sum.cpp)||[Done](/Recursion%20and%20Backtracking/Recursive_Digit_Sum)|
 |Miscellaneous | ||| |
 ||[Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|||[Done](/Miscellaneous/FlippingBits.py)|
