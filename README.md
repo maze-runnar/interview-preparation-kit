@@ -66,8 +66,10 @@ in C++, Java and Python.
 ||[BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|||[Done](/Graphs/ShortestReachInAGraph.py)|
 ||[DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Graphs/DFS_Connected%20Cell_in_a_Grid.cpp)||[Done](/Graphs/ConnectedCellInAGrid.py)|
 |Trees | | | ||
-||[Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)||[Done](/Trees/heightOfBT.java)||
-||[Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)||[Done](/Trees/LCA.java)||
+||[Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)||[Done](/Trees/heightOfBT.java)|[Done](/Trees/HeightOfABinaryTree.py)|
+||[Binary Search Tree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)||[Done](/Trees/LCA.java)|[Done](/Trees/LowestCommonAncestor.py)|
+||[Tree: Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)|||[Done](/Trees/isThisABST.py)|
+||[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)|||[Done](/Trees/HuffmanDecoding.py)|
 |Linked List | || ||
 |Recursion and Backtracking | ||||
 ||[Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)|[Done](/Recursion%20and%20Backtracking/Fibonacci_Numbers.cpp)||[Done](/Recursion%20and%20Backtracking/Fibonacci_numbers.py)|
