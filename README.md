@@ -53,6 +53,8 @@ in C++, Java and Python.
 |Dynamic Programming| ||||
 ||[Max Sum Array](https://www.hackerrank.com/challenges/max-array-sum/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming)|[Done](/Dynamic%20Programming/max_array_sum.cpp)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Dynamic%20Programming/MaxSumArray.java)|[Done](/Dynamic%20Programming/MaxSumArray.py)|
 ||[Candies](https://www.hackerrank.com/challenges/candies/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming)|[Done](/Dynamic%20Programming/candies.cpp)||[Done](/Dynamic%20Programming/Candies.py)|
+| |[Abbreviation](https://www.hackerrank.com/challenges/abbr/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming) |[Done](/Dynamic%20Programming/abbreviation.cpp) | | |
+| |[Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming) |[Done](/Dynamic%20Programming/decibinary_numbers.cpp) | | |
 |Stacks and Queues|||||
 ||[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)|||[Done](/Stack%20and%20Queues/BalancedBrackets.py)|
 ||[Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)|||[Done](/Stack%20and%20Queues/TaleOfTwoStacks.py)|
