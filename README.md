@@ -81,10 +81,10 @@ in C++, Java and Python.
 ||[Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)|[Done](/Recursion%20and%20Backtracking/Davis'_staircase.py)||[Done](/Recursion%20and%20Backtracking/crossword_puzzle.py)|
 ||[Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=recursion-backtracking)|[Done](/Recursion%20and%20Backtracking/Recursive_Digit_Sum.cpp)||[Done](/Recursion%20and%20Backtracking/Recursive_Digit_Sum)|
 |Miscellaneous | ||| |
-||[Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)||[Done](/Miscellaneous/flippingBits.java)|[Done](/Miscellaneous/FlippingBits.py)|
+||[Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|[Done](/Miscellaneous/flippingbits.cpp)|[Done](/Miscellaneous/flippingBits.java)|[Done](/Miscellaneous/FlippingBits.py)|
 ||[Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|[Done](/Miscellaneous/Primality.cpp)|[Done](/Miscellaneous/Primality.java)|[Done](/Miscellaneous/Primality.py)|
-||[Friend Circle Queries](https://www.hackerrank.com/challenges/friend-circle-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|||[Done](/Miscellaneous/FriendCircleQueries.py)|
-||[Maximum Xor](https://www.hackerrank.com/challenges/maximum-xor?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|||[Done](/Miscellaneous/MaximumXor.py)|
+||[Friend Circle Queries](https://www.hackerrank.com/challenges/friend-circle-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|[Done](/Miscellaneous/FreindCircleQueries.cpp)||[Done](/Miscellaneous/FriendCircleQueries.py)|
+||[Maximum Xor](https://www.hackerrank.com/challenges/maximum-xor?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|[Done](/Miscellaneous/MaximumXOR.cpp)||[Done](/Miscellaneous/MaximumXor.py)|
 
 ## Communication channel 
 
