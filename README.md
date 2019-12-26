@@ -89,6 +89,7 @@ in C++, Java and Python.
 ||[Friend Circle Queries](https://www.hackerrank.com/challenges/friend-circle-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|[Done](/Miscellaneous/FreindCircleQueries.cpp)||[Done](/Miscellaneous/FriendCircleQueries.py)|
 ||[Maximum Xor](https://www.hackerrank.com/challenges/maximum-xor?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|[Done](/Miscellaneous/MaximumXOR.cpp)||[Done](/Miscellaneous/MaximumXor.py)|
 
+
 ## Communication channel 
 
 https://gitter.im/interview-prep-comm/community
