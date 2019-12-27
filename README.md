@@ -6,7 +6,7 @@ in C++, Java, Python and Javascript.
 
 
 
-|Topic  | Question | CPP | JAVA | Python| Javascript|
+|Topic  | Question | CPP | JAVA | Python| JavaScript|
 |-------|----------|-----|------| ------| ----------|
 |Warm Up Challenges | | | | ||
 ||[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)|[Done](/Warm-Up%20Challenges/sock_merchant.cpp)|[Done](/Warm-Up%20Challenges/sockMerchant.java)|[Done](/Warm-Up%20Challenges/SockMerchant.py)||
@@ -65,9 +65,9 @@ in C++, Java, Python and Javascript.
 ||[Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)|[Done](/Stack%20and%20Queues/CastleOnTheGrid.cpp)||[Done](/Stack%20and%20Queues/CastleOntheGrid.py)||
 ||[Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=stacks-queues)|[Done](/Stack%20and%20Queues/PoisonousPlants.cpp)||[Done](/Stack%20and%20Queues/PoisonousPlants.py)||
 |Graphs | | | |||
-||[Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|||[Done](/Graphs/RoadsAndLibraries.py)||
-||[Find the nearest clone](https://www.hackerrank.com/challenges/find-the-nearest-clone/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|||[Done](/Graphs/FindTheNearestClone.py)||
-||[BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|||[Done](/Graphs/ShortestReachInAGraph.py)||
+||[Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|[Done](/Graphs/RoadsAndLibraries.cpp)||[Done](/Graphs/RoadsAndLibraries.py)||
+||[Find the nearest clone](https://www.hackerrank.com/challenges/find-the-nearest-clone/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|[Done](/Graphs/FindNearestClone.cpp)||[Done](/Graphs/FindTheNearestClone.py)||
+||[BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|[Done](/Graphs/ShortestReachInAGraph.cpp)||[Done](/Graphs/ShortestReachInAGraph.py)||
 ||[DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=graphs)|[Done](https://github.com/maze-runnar/interview-preparation-kit/blob/master/Graphs/DFS_Connected%20Cell_in_a_Grid.cpp)||[Done](/Graphs/ConnectedCellInAGrid.py)||
 |Trees | | | |||
 ||[Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees)|[Done](/Trees/BinaryTreeHeight.cpp)|[Done](/Trees/heightOfBT.java)|[Done](/Trees/HeightOfABinaryTree.py)||
