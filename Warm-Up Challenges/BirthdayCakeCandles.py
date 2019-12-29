@@ -8,18 +8,16 @@ import sys
 
 # Complete the birthdayCakeCandles function below.
 def birthdayCakeCandles(ar):
-    if len(ar) == 0:
-        return 0
-    ar.sort()
-    max_ar = ar[-1]
-    count = 1
-    ar.reverse()
-    print(ar)
-    for i in range(1,len(ar)):
-        print(ar[i])
-        if ar[i] == max_ar:
-            count += 1
-    return count
+    hash_table = dict()
+    max_val = 0
+    for i in ar:
+        if i in hash_table.keys():
+            hash_table[i]+=1
+        else:
+            hash_table[i] = 1
+        if i>max_val:
+            max_val = i
+    return hash_table[max_val]
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
