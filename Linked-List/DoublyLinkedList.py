@@ -1,10 +1,10 @@
 #!/bin/python3
 
-import math
+#import math
 import os
-import random
-import re
-import sys
+#import random
+#import re
+#import sys
 
 class DoublyLinkedListNode:
     def __init__(self, node_data):
@@ -25,7 +25,6 @@ class DoublyLinkedList:
         else:
             self.tail.next = node
             node.prev = self.tail
-
 
         self.tail = node
 
@@ -56,7 +55,6 @@ class Node(object):
         self.next = next_node
         self.prev = prev_node
 
-
 def sortedInsert(head, data):
     if head == None:
         return Node(data)
@@ -64,8 +62,7 @@ def sortedInsert(head, data):
     walker = head
     while walker.next != None and walker.data < data:
         walker = walker.next
-    
-    if walker.data < data:
+        if walker.data < data:
         walker.next = Node(data, None, walker)
     elif walker.prev == None:
         node = Node(data, head)
