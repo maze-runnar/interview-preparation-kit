@@ -1,11 +1,5 @@
 #!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
-
 def root(v):
     if par[v] == v:
         return v
@@ -31,4 +25,3 @@ if __name__ == "__main__":
             continue
         merge(root(u), root(v))
     print(r)
-    
