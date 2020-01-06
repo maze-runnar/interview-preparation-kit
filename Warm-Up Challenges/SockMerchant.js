@@ -1,53 +1,26 @@
-'use strict';
-
-const fs = require('fs');
+function processData(input) {
+    //Enter your code here
+  var pInput = input.split('\n');
+  var n = pInput[0];
+  var pInput = pInput[1].split(' ');
+  var oddItems = {};
+  pInput.map(function (i) {
+    if(oddItems[i]) {
+      delete oddItems[i];
+    } else {
+      oddItems[i] = true;
+    }
+  })
+  console.log((n - Object.keys(oddItems).length)/2);
+}
 
 process.stdin.resume();
-process.stdin.setEncoding('utf-8');
-
-let inputString = '';
-let currentLine = 0;
-
-process.stdin.on('data', inputStdin => {
-    inputString += inputStdin;
+process.stdin.setEncoding("ascii");
+_input = "";
+process.stdin.on("data", function (input) {
+    _input += input;
 });
 
-process.stdin.on('end', _ => {
-    inputString = inputString.replace(/\s*$/, '')
-        .split('\n')
-        .map(str => str.replace(/\s*$/, ''));
-
-    main();
+process.stdin.on("end", function () {
+   processData(_input);
 });
-
-function readLine() {
-    return inputString[currentLine++];
-}
-
-
-function sockMerchant(n, ar) {
-    var x = 0;
-    ar.sort();
-    for(let i=0; i<n;i++){
-        if(ar[i] == ar[i+1]){
-            i++;
-                  x++;
-           }
-    }
-return x;
-
-}
-
-function main() {
-    const ws = fs.createWriteStream(process.env.OUTPUT_PATH);
-
-    const n = parseInt(readLine(), 10);
-
-    const ar = readLine().split(' ').map(arTemp => parseInt(arTemp, 10));
-
-    let result = sockMerchant(n, ar);
-
-    ws.write(result + "\n");
-
-    ws.end();
-}
