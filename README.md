@@ -99,3 +99,5 @@ https://gitter.im/interview-prep-comm/community
 ### Contribution Guidelines
 https://www.hackerrank.com/interview/interview-preparation-kit  <br/>
 Go to this link and solve the problems in C++, Java, Python or Javascript. Save the source file in the corresponding folder in your forked repo. Please update the readme with the completed question's link in the appropriate format, pointing to its address in the master repo, and then make a pull request.
+Here we are going to expand this project to more questions, ny adding microsoft interview question from 
+GeeksForGeeks . The solution should be in any language from readme table :)
