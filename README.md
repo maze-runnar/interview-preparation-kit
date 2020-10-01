@@ -1,6 +1,6 @@
 # interview-preparation-kit
-Solutions to all the problems of [Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit) on HackerRank
-in C++, Java, Python and Javascript.
+This Repo includes all solutions to all the problems of [Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit) on HackerRank
+in C++, Java, Python and Javascript. All the codes are helpful from C.P. point of view.
 
 ## Question solved
 
