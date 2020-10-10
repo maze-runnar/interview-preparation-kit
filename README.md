@@ -1,10 +1,9 @@
 # interview-preparation-kit
-Solutions to all the problems of [Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit) on HackerRank
-in C++, Java, Python and Javascript.
+Solutions to all the problems of [Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit) on HackerRank and Interviewbit in C++, Java, Python and Javascript.
 
 ## Question solved
 
-
+### HackerRank
 
 |Topic  | Question | CPP | JAVA | Python| JavaScript|
 |-------|----------|-----|------| ------| ----------|
@@ -91,6 +90,13 @@ in C++, Java, Python and Javascript.
 ||[Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|[Done](/Miscellaneous/Primality.cpp)|[Done](/Miscellaneous/Primality.java)|[Done](/Miscellaneous/Primality.py)||
 ||[Friend Circle Queries](https://www.hackerrank.com/challenges/friend-circle-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|[Done](/Miscellaneous/FreindCircleQueries.cpp)|[Done](/Miscellaneous/FriendCircleQueries.java)|[Done](/Miscellaneous/FriendCircleQueries.py)||
 ||[Maximum Xor](https://www.hackerrank.com/challenges/maximum-xor?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|[Done](/Miscellaneous/MaximumXOR.cpp)|[Done](/Miscellaneous/MaximumXor.java)|[Done](/Miscellaneous/MaximumXor.py)||
+
+### Interviewbit
+
+|Topic  | Question | CPP | JAVA | Python| JavaScript|
+|-------|----------|-----|------| ------| ----------|
+|Arrays||||||
+||[Min Steps in Infinite Grid](https://www.interviewbit.com/problems/min-steps-in-infinite-grid/)|||||
 
 ## Communication channel 
 
