@@ -1,5 +1,5 @@
 # interview-preparation-kit
-Solutions to all the problems of [Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit) on HackerRank and Interviewbit in C++, Java, Python and Javascript.
+Solutions to all the problems of [Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit) on HackerRank, LeetCode problems, and Interviewbit in C++, Java, Python and Javascript.
 
 ## Question solved
 
@@ -90,6 +90,27 @@ Solutions to all the problems of [Interview Preparation Kit](https://www.hackerr
 ||[Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|[Done](/Miscellaneous/Primality.cpp)|[Done](/Miscellaneous/Primality.java)|[Done](/Miscellaneous/Primality.py)||
 ||[Friend Circle Queries](https://www.hackerrank.com/challenges/friend-circle-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|[Done](/Miscellaneous/FreindCircleQueries.cpp)|[Done](/Miscellaneous/FriendCircleQueries.java)|[Done](/Miscellaneous/FriendCircleQueries.py)||
 ||[Maximum Xor](https://www.hackerrank.com/challenges/maximum-xor?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous)|[Done](/Miscellaneous/MaximumXOR.cpp)|[Done](/Miscellaneous/MaximumXor.java)|[Done](/Miscellaneous/MaximumXor.py)||
+
+### LeetCode
+
+|Problem # | Problem Name | Difficulty | CPP | JAVA | Python|
+|----------|--------------|------------|-----|------|-------|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|Medium|[Done](/Leetcode/cpp/34-find-first-last-position-of-element-in-sorted-array.cpp)|[Done](/Leetcode/java/34-find-first-last-position-of-element-in-sorted-array.java)|[Done](/Leetcode/python/34-find-first-last-position-of-element-in-sorted-array.py)|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|Easy|[Done](/Leetcode/cpp/35-search-insert-position.cpp)|[Done](/Leetcode/java/35-search-insert-position.java)|[Done](/Leetcode/python/35-search-insert-position.py)|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|Medium|[Done](/Leetcode/cpp/36-valid-sudoku.cpp)|[Done](/Leetcode/java/36-valid-sudoku.java)|[Done](/Leetcode/python/36-valid-sudoku.py)|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|Hard|[Done](/Leetcode/cpp/37-sudoku-solver.cpp)|[Done](/Leetcode/java/37-sudoku-solver.java)|[Done](/Leetcode/python/37-sudoku-solver.py)|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|Medium|[Done](/Leetcode/cpp/38-count-and-say.cpp)|[Done](/Leetcode/java/38-count-and-say.java)|[Done](/Leetcode/python/38-count-and-say.py)|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|Medium|[Done](/Leetcode/cpp/39-combination-sum.cpp)|[Done](/Leetcode/java/39-combination-sum.java)|[Done](/Leetcode/python/39-combination-sum.py)|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|Medium|[Done](/Leetcode/cpp/40-combination-sum-ii.cpp)|[Done](/Leetcode/java/40-combination-sum-ii.java)|[Done](/Leetcode/python/40-combination-sum-ii.py)|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|Hard|[Done](/Leetcode/cpp/41-first-missing-positive.cpp)|[Done](/Leetcode/java/41-first-missing-positive.java)|[Done](/Leetcode/python/41-first-missing-positive.py)|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Hard|[Done](/Leetcode/cpp/42-trapping-rain-water.cpp)|[Done](/Leetcode/java/42-trapping-rain-water.java)|[Done](/Leetcode/python/42-trapping-rain-water.py)|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|Medium|[Done](/Leetcode/cpp/43-multiply-strings.cpp)|[Done](/Leetcode/java/43-multiply-strings.java)|[Done](/Leetcode/python/43-multiply-strings.py)|
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|Hard|[Done](/Leetcode/cpp/44-wildcard-matching.cpp)|[Done](/Leetcode/java/44-wildcard-matching.java)|[Done](/Leetcode/python/44-wildcard-matching.py)|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|Medium|[Done](/Leetcode/cpp/45-jump-game-ii.cpp)|[Done](/Leetcode/java/45-jump-game-ii.java)|[Done](/Leetcode/python/45-jump-game-ii.py)|
+|46|[Permutations](https://leetcode.com/problems/permutations/)|Medium|[Done](/Leetcode/cpp/46-permutations.cpp)|[Done](/Leetcode/java/46-permutations.java)|[Done](/Leetcode/python/46-permutations.py)|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|Medium|[Done](/Leetcode/cpp/47-permutations-ii.cpp)|[Done](/Leetcode/java/47-permutations-ii.java)|[Done](/Leetcode/python/47-permutations-ii.py)|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|Medium|[Done](/Leetcode/cpp/48-rotate-image.cpp)|[Done](/Leetcode/java/48-rotate-image.java)|[Done](/Leetcode/python/48-rotate-image.py)|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|[Done](/Leetcode/cpp/49-group-anagrams.cpp)|[Done](/Leetcode/java/49-group-anagrams.java)|[Done](/Leetcode/python/49-group-anagrams.py)|
 
 ### Interviewbit
 
